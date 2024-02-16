@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.634f9b7b.css",
+    "main.js": "/static/js/main.6b279e75.js",
+    "static/js/592.19c9dd41.chunk.js": "/static/js/592.19c9dd41.chunk.js",
+    "static/media/APPFlyer.png": "/static/media/APPFlyer.865e01d28f16aa4ea59a.png",
+    "static/media/izr_logo.png": "/static/media/izr_logo.2175ff4a5730d470b81b.png",
+    "static/media/stars.png": "/static/media/stars.847a6e7dc8c318c99780.png",
+    "static/media/qr-code.png": "/static/media/qr-code.dfe84cdef7bb0b3d6982.png",
+    "static/media/izr_logo_w.svg": "/static/media/izr_logo_w.6ffaacc4bd8dbc97ce119c95fb1e8661.svg",
+    "index.html": "/index.html",
+    "main.634f9b7b.css.map": "/static/css/main.634f9b7b.css.map",
+    "main.6b279e75.js.map": "/static/js/main.6b279e75.js.map",
+    "592.19c9dd41.chunk.js.map": "/static/js/592.19c9dd41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634f9b7b.css",
+    "static/js/main.6b279e75.js"
+  ]
+}
